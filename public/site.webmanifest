@@ -1,0 +1,28 @@
+{
+    "name": "PRIME STRENGTH - Experience Deserves Strength",
+    "short_name": "PRIME STRENGTH",
+    "description": "Professional, in-home reformer pilates for Victoria's most experienced residents. Founded by Eva.",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon.png",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "theme_color": "#4F46E5",
+    "background_color": "#FAFAFA",
+    "display": "standalone",
+    "start_url": "/",
+    "scope": "/",
+    "orientation": "portrait-primary"
+}

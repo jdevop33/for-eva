@@ -1,0 +1,21 @@
+{
+  "name": "PRIME STRENGTH - Experience Deserves Strength",
+  "short_name": "PRIME STRENGTH",
+  "description": "Professional, in-home reformer pilates for Victoria's most experienced residents.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#2C3E50",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
